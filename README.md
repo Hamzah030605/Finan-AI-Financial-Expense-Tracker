@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=black&logo=javascript&color=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
+    
+  </div><img width="1213" height="684" alt="Screenshot 2025-08-20 at 16 59 40" src="https://github.com/user-attachments/assets/5a9d2c2e-0301-4cc4-be03-e053190383d5" />
+
 
   <h3 align="center">Finan AI - Financial Expense Tracker</h3>
 
