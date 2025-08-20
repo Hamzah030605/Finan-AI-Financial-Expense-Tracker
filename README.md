@@ -110,8 +110,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="snippets">🕸️ Assets & Code</a>
 
-The repository includes all the assets and code you need to get started with Finan Smart. Follow along with our YouTube tutorial for a step-by-step guide.
+The repository includes all the assets and code you need to get started with Finan AI.
 
 ## <a name="more">🚀 More</a>
 
-For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
+Contributions and suggestions are welcome via issues and pull requests.
